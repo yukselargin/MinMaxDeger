@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        int j=0,jmin=0,comp1,comp2,min,n2=0,n3=0,n4=0,n5=0;
+        int j=0,comp1,comp2,n2=0,n3=0,n4=0,n5=0;
         Scanner input= new Scanner(System.in);
 
         System.out.print("Kaç adet sayı gireceksiniz: ");
